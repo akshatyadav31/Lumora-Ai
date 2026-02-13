@@ -1,11 +1,3 @@
-# Screenshots
-
-![Demo 1](demo1.png)
-![Demo 2](demo2.png)
-![Demo 3](demo3.png)
-
-<<<<<<< HEAD
-=======
 **Lumora** is not just a dashboard. It is an intelligent, conversational layer between you and your raw data. By fusing local SQL execution engines with state-of-the-art Large Language Models (LLMs), Lumora transforms the tedious task of data analysis into a seamless, natural dialogue.
 
 Forget complex pivot tables. Forget writing SQL boilerplate. Just ask.
