@@ -1,3 +1,7 @@
+
+# ✨ Lumora
+### Converse with your data.
+
 **Lumora** is not just a dashboard. It is an intelligent, conversational layer between you and your raw data. By fusing local SQL execution engines with state-of-the-art Large Language Models (LLMs), Lumora transforms the tedious task of data analysis into a seamless, natural dialogue.
 
 Forget complex pivot tables. Forget writing SQL boilerplate. Just ask.
